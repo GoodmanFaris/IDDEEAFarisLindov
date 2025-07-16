@@ -1,0 +1,15 @@
+package com.example.iddeeafarislindov.data.models.vehicles
+
+
+data class VehiclesRequest(
+    val entityId: Int = 0,
+    val cantonId: Int = 0,
+    val municipalityId: Int = 0,
+    val year: String = "",
+    val month: String = ""
+)
+
+
+
+
+

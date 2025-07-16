@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">IDDEEAFarisLindov</string>
+    <string name="pretraga">Pretraga</string>
+    <string name="sortiraj_po">Sortiraj po:</string>
+    <string name="nema_rezultata_za_tra_ene_filtere">Nema rezultata za tražene filtere.</string>
+    <string name="ukupno">Ukupno:</string>
+    <string name="sa_uvani_podaci_o_umrlima">Sačuvani podaci o umrlima</string>
+    <string name="nemate_sa_uvanih_zapisa">Nemate sačuvanih zapisa.</string>
+    <string name="nemate_sa_uvanih_li_nih_karata">Nemate sačuvanih ličnih karata.</string>
+    <string name="sa_uvane_li_ne_karte">Sačuvane lične karte</string>
+    <string name="nemate_sa_uvanih_osoba">Nemate sačuvanih osoba.</string>
+    <string name="sa_uvane_osobe">Sačuvane osobe</string>
+    <string name="sa_uvana_registrovana_vozila">Sačuvana registrovana vozila</string>
+    <string name="nemate_sa_uvanih_vozila">Nemate sačuvanih vozila.</string>
+    <string name="sacuvane_osobe">👤 Sačuvane osobe</string>
+    <string name="pregled_sa_uvanih_osoba">Pregled sačuvanih podataka o osobobama</string>
+    <string name="sacuvane_li_ne_karte">🪪 Sačuvane lične karte</string>
+    <string name="pregled_sa_uvanih_li_nih_karata">Pregled sačuvanih podataka o ličnim karatama</string>
+    <string name="sacvani_umrli">⚰️ Sačuvani umrli</string>
+    <string name="pregled_sa_uvanih_zapisa_o_umrlim_osobama">Pregled sačuvanih podataka o umrlim osobama</string>
+    <string name="sacuvana_vozila">🚗 Sačuvana vozila</string>
+    <string name="pregled_sa_uvanih_vozila">Pregled sačuvanih podataka o vozila</string>
+    <string name="opis_apk">Ova aplikacija omogućava pregled demografskih podataka za Bosnu i Hercegovinu, uključujući podatke o novorođenima, preminulima, prebivalištu i registraciji vozila. Podaci se preuzimaju sa zvaničnog portala otvorenih podataka (ODP) i omogućavaju filtriranje po godini, mjesecu i entitetu.</string>
+    <string name="glavne_funkcionalnosti_uklju_uju">Glavne funkcionalnosti uključuju:</string>
+    <string name="filtriranje_i_sortiranje_podataka">• Filtriranje i sortiranje podataka</string>
+    <string name="pregled_rezultata_po_op_inama_i_institucijama">• Pregled rezultata po općinama i institucijama</string>
+    <string name="dodavanje_zapisa_u_favorite">• Dodavanje zapisa u favorite</string>
+    <string name="prikaz_statistika_i_grafikona">• Prikaz statistika i grafikona</string>
+    <string name="o_aplikaciji">O aplikaciji</string>
+    <string name="pretraga_datasetova">Pretraga datasetova</string>
+    <string name="entitet">Entitet:</string>
+    <string name="godina">Godina</string>
+    <string name="mjesec">Mjesec</string>
+</resources>
